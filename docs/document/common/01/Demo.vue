@@ -10,7 +10,8 @@
 <script setup lang="ts">
 import { ref } from 'vue'
 import MyInput from './MyInput.vue'
-import { NButton } from 'naive-ui'
+import * as pkg from 'naive-ui'
+const { NButton } = pkg
 
 const msg = ref('hello')
 const myInputRef = ref()

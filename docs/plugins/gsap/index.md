@@ -6,8 +6,8 @@ GSAP 是一个强大的 JavaScript 工具集，可以将开发人员变成动画
 
 ### 安装
 
-1. GSAP动画：[greensock.com/showcase/](greensock.com/showcase/)
-2. GSAP ScrollTrigger（gsap的插件）动画：[greensock.com/st-demos/](greensock.com/st-demos/)
+1. GSAP动画：[greensock.com/showcase/](http://greensock.com/showcase/)
+2. GSAP ScrollTrigger（gsap的插件）动画：[greensock.com/st-demos/](http://greensock.com/st-demos/)
 
 ``` bash
 pnpm i gsap

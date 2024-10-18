@@ -10,7 +10,8 @@
   </div>
 </template>
 <script setup lang="ts">
-import { NInput, NSpace } from 'naive-ui'
+import * as pkg from 'naive-ui'
+const { NInput, NButton } = pkg
 import { ref } from 'vue'
 
 const inputRef = ref()
